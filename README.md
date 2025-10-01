@@ -14,3 +14,18 @@ My journey has been shaped by overcoming significant challenges, including finan
 - To solve real-world security problems within legal frameworks
 
 I believe everyone deserves protection from cyber threats, regardless of their budget.
+## 🔧 Technical Skills
+- **Penetration Testing:** TryHackMe, HackTheBox
+- **Tools:** Nmap, Burp Suite, Metasploit, Wireshark
+- **Languages:** Python, Bash, PowerShell
+- **Platforms:** Kali Linux, Windows Server
+
+## 📚 Currently Learning
+- Web Application Penetration Testing
+- Network Security Fundamentals
+- Vulnerability Assessment
+
+## 🎯 Goals
+- Complete TryHackMe Junior Penetration Tester path
+- Land first freelance security assessment project
+- Build practical experience through bug bounty hunting
